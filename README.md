@@ -218,6 +218,10 @@ See the [Quick Start guide](https://getdrydock.com/docs/quickstart) for Docker C
 
 What changed in each release is in [`CHANGELOG.md`](CHANGELOG.md) and on the [GitHub Releases](https://github.com/CodesWhat/drydock/releases) page.
 
+### ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Drydock/)
+
 <hr>
 
 <h2 align="center" id="screenshots">Screenshots & Live Demo</h2>
